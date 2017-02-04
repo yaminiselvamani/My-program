@@ -11,7 +11,7 @@ public class MultipleMain {
 		int case4 = 15;
 		int case5 = 18;
 		int case6 = 30;
-		int case7 = 55;
+		int case7 = 60;
 
 		boolean expected1 = true;
 		boolean expected2 = false;
