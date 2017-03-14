@@ -1,0 +1,7 @@
+Get Method
+
+1. GET requests can be cached and remains in the browser history.
+2. GET requests can be bookmarked  and data will be secured.
+3. GET requests should never be used when dealing with sensitive data.
+4. GET requests sends information in the header so it has length restrictions.
+5. GET requests should be used only to retrieve data.
